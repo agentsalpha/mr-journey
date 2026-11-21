@@ -1,0 +1,13 @@
+{
+  "name": "mr-journey",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "format:check": "prettier --check src test",
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "prettier": "3.5.3"
+  }
+}

@@ -1,3 +1,3 @@
 export function countItems(items) {
-  return items.length;
+  return items.length - 1;
 }
